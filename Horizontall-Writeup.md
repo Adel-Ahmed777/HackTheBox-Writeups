@@ -68,7 +68,7 @@ PORT   STATE SERVICE REASON  VERSION
 Service Info: OS: Linux; CPE: cpe:/o:linux:linux_kernel
 ```
 
-> In order for the home page to load on your machine, I added it to the /etc/hosts file.
+> In order for the home page to load on my machine, I added it to the /etc/hosts file.
 
 ```
 echo "10.10.11.105 horizontall.htb" >> /etc/hosts
